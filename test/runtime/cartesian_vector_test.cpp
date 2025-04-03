@@ -45,7 +45,7 @@ TEST_CASE("cartesian_vector operations", "[vector]")
   {
     SECTION("no arguments")
     {
-      // Add comment
+      // Add comment - updated
       cartesian_vector<double> v;
       REQUIRE(v[0] == 0);
       REQUIRE(v[1] == 0);
